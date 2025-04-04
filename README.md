@@ -8,10 +8,12 @@ Overview:
   The difference is you do not need to sign in, customize your txt style , auto save(?), search the entire folder as control +f, 
 
   When you access to the file, you can rearrange txt, and custom templates of custom design alignments.
-  
+    
   Of course, design takes ages to master. For that, copying something related to my idea could be the solution.
+    RelaGit is one of the few options.
 
-  I am still looking for more insperation. 
+  I am still looking for more insperation. DONE
+    - Analysing on what to use. 
 
   This will take about a month to finish.
 
