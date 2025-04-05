@@ -12,6 +12,8 @@ Overview:
   ,auto save(?),
   search the entire folder as control +f, 
 
+  using ai for text alignment
+
   When you access to the file, you can rearrange txt, and custom templates of custom design alignments.
     
   Of course, design takes ages to master. For that, copying something related to my idea could be the solution.
