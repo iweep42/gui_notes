@@ -7,7 +7,7 @@ Overview:
 
   The difference is 
   -
-  you do not need to sign in, 
+  no sign in, 
   customize your txt style ,
   ,auto save(?),
   search the entire folder as control +f, 
